@@ -1,0 +1,4 @@
+Name: XML to Dict
+Purpose:  To convert XML files into Python dictionaries using MiniDOM. 
+Date: June 2012
+By: Samantha Tjong, a programming newbie who wrote this code for a small project :)
